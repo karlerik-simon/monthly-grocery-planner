@@ -12,3 +12,5 @@ A web based application where you can plan your monthly grocery shopping based o
 * Amazon Simple Email Service (SES) for sending emails
 * Stripe API for payments
 * Amazon Cognito for handling users and authentication
+
+## Further Documentation
