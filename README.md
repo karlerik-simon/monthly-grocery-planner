@@ -1,2 +1,2 @@
-# monthly-grocery-planner
+# Monthly Grocery Planner
 A web based application where you can plan your monthly grocery shopping based on calorie intake and budget.
